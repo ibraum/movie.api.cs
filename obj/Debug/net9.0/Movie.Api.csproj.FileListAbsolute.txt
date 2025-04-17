@@ -11,6 +11,7 @@ D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\Movie.Api.Assemb
 D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\Movie.Api.AssemblyInfo.cs
 D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\Movie.Api.csproj.CoreCompileInputs.cache
 D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\Movie.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\Movie.Api.sourcelink.json
 D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\scopedcss\bundle\Movie.Api.styles.css
 D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\staticwebassets.build.json
 D:\IRT3\ASP.NET\backend\first-course\Movie.Api\obj\Debug\net9.0\staticwebassets.development.json
